@@ -26,7 +26,6 @@ def my_hash_creator(key, value)
   creator_hash = {
     key => value
   }
-  
 end
 
 def read_from_hash(hash, key)
